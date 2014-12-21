@@ -1,6 +1,3 @@
-rt
-+
-&amp
 a
 actualmente
 adelante
@@ -610,3 +607,6 @@ yo
 últimas
 último
 últimos
+rt
++
+&amp
